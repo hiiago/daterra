@@ -64,7 +64,7 @@
               </ul>
 
               <ul class="nav navbar-nav navbar-right">
-                <li class=""><a href="/login"><div class="glyphicon glyphicon-log-in"></div> Entrar</a></li>
+                <li class=""><a href="{{url('login')}}"><div class="glyphicon glyphicon-log-in"></div> Entrar</a></li>
               </ul>
             </div><!--/.nav-collapse -->
           </div>
