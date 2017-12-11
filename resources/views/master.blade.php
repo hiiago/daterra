@@ -59,7 +59,7 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="/anuncio">Anúncios</a></li>
+                <li><a href="{{url('anuncio')}}">Anúncios</a></li>
                 <li><a href="/chamadapublica">Chamadas Públicas</a></li>
               </ul>
 
